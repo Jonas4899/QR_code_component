@@ -60,4 +60,4 @@ In future projects I want to focus on making better layouts with CSS flexbox and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Jonas4899](https://www.frontendmentor.io/profile/Jonas4899)
